@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Paradigms_Assignment4",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Paradigms_Assignment4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Paradigms_Assignment4-Debug-b25a48ea425fe07cbf6e.json",
+					"name" : "Paradigms_Assignment4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cezar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cezar-Debug-45be9f12dd90ee74c0af.json",
+					"name" : "cezar",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/kovko/CLionProjects/Paradigms_Assignment4/cmake-build-debug",
+		"source" : "C:/Users/kovko/CLionProjects/Paradigms_Assignment4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

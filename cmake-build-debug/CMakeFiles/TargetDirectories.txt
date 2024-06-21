@@ -1,0 +1,4 @@
+C:/Users/kovko/CLionProjects/Paradigms_Assignment4/cmake-build-debug/CMakeFiles/cezar.dir
+C:/Users/kovko/CLionProjects/Paradigms_Assignment4/cmake-build-debug/CMakeFiles/Paradigms_Assignment4.dir
+C:/Users/kovko/CLionProjects/Paradigms_Assignment4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kovko/CLionProjects/Paradigms_Assignment4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
